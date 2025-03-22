@@ -1,0 +1,10 @@
+C:\Users\Pesca\source\repos\ClinicaUH\ClinicaUH\bin\Debug\ClinicaUH.exe.config
+C:\Users\Pesca\source\repos\ClinicaUH\ClinicaUH\bin\Debug\ClinicaUH.exe
+C:\Users\Pesca\source\repos\ClinicaUH\ClinicaUH\bin\Debug\ClinicaUH.pdb
+C:\Users\Pesca\source\repos\ClinicaUH\ClinicaUH\obj\Debug\ClinicaUH.csproj.AssemblyReference.cache
+C:\Users\Pesca\source\repos\ClinicaUH\ClinicaUH\obj\Debug\ClinicaUH.Properties.Resources.resources
+C:\Users\Pesca\source\repos\ClinicaUH\ClinicaUH\obj\Debug\ClinicaUH.csproj.GenerateResource.cache
+C:\Users\Pesca\source\repos\ClinicaUH\ClinicaUH\obj\Debug\ClinicaUH.csproj.CoreCompileInputs.cache
+C:\Users\Pesca\source\repos\ClinicaUH\ClinicaUH\obj\Debug\ClinicaUH.exe
+C:\Users\Pesca\source\repos\ClinicaUH\ClinicaUH\obj\Debug\ClinicaUH.pdb
+C:\Users\Pesca\source\repos\ClinicaUH\ClinicaUH\obj\Debug\Examen1.Form1.resources
